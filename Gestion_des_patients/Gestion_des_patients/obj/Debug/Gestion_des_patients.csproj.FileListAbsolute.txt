@@ -1,0 +1,66 @@
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\bin\Debug\Gestion_des_patients.exe
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\bin\Debug\Gestion_des_patients.exe.config
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\bin\Debug\EntityFramework.dll
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\bin\Debug\EntityFramework.xml
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\obj\Debug\Gestion_des_patients.csprojAssemblyReference.cache
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\obj\Debug\Administrateur.g.cs
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\obj\Debug\Ajouter_admission.g.cs
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\obj\Debug\Ajouter_patient.g.cs
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\obj\Debug\Medecin.g.cs
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\obj\Debug\Menu.g.cs
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\obj\Debug\Prepose.g.cs
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\obj\Debug\App.g.cs
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\obj\Debug\Gestion_des_patients_Content.g.cs
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\obj\Debug\Gestion_des_patients_MarkupCompile.cache
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\obj\Debug\Gestion_des_patients_MarkupCompile.lref
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\obj\Debug\App.baml
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\obj\Debug\Administrateur.baml
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\obj\Debug\Ajouter_admission.baml
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\obj\Debug\Ajouter_patient.baml
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\obj\Debug\Medecin.baml
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\obj\Debug\Menu.baml
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\obj\Debug\Prepose.baml
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\obj\Debug\Gestion_des_patients.g.resources
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\obj\Debug\Gestion_des_patients.Properties.Resources.resources
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\obj\Debug\Gestion_des_patients.csproj.GenerateResource.cache
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\obj\Debug\Gestion_des_patients.csproj.CoreCompileInputs.cache
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\obj\Debug\Gestion_des_patients.csproj.CopyComplete
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\obj\Debug\Gestion_des_patients.exe
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\obj\Debug\Gestion_des_patients.pdb
+C:\Users\Menade HAMDAOUI\source\repos\Gestion_des_patients\Gestion_des_patients\bin\Debug\Gestion_des_patients.pdb
+J:\Gestion_des_patients\Gestion_des_patients\bin\Debug\Gestion_des_patients.exe.config
+J:\Gestion_des_patients\Gestion_des_patients\bin\Debug\Gestion_des_patients.exe
+J:\Gestion_des_patients\Gestion_des_patients\bin\Debug\Gestion_des_patients.pdb
+J:\Gestion_des_patients\Gestion_des_patients\bin\Debug\EntityFramework.dll
+J:\Gestion_des_patients\Gestion_des_patients\bin\Debug\EntityFramework.SqlServer.dll
+J:\Gestion_des_patients\Gestion_des_patients\bin\Debug\EntityFramework.xml
+J:\Gestion_des_patients\Gestion_des_patients\bin\Debug\EntityFramework.SqlServer.xml
+J:\Gestion_des_patients\Gestion_des_patients\bin\Debug\fr\EntityFramework.resources.dll
+J:\Gestion_des_patients\Gestion_des_patients\obj\Debug\Administrateur.g.cs
+J:\Gestion_des_patients\Gestion_des_patients\obj\Debug\Ajouter_admission.g.cs
+J:\Gestion_des_patients\Gestion_des_patients\obj\Debug\Ajouter_patient.g.cs
+J:\Gestion_des_patients\Gestion_des_patients\obj\Debug\Medecin.g.cs
+J:\Gestion_des_patients\Gestion_des_patients\obj\Debug\Menu.g.cs
+J:\Gestion_des_patients\Gestion_des_patients\obj\Debug\Prepose.g.cs
+J:\Gestion_des_patients\Gestion_des_patients\obj\Debug\App.g.cs
+J:\Gestion_des_patients\Gestion_des_patients\obj\Debug\Gestion_des_patients_Content.g.cs
+J:\Gestion_des_patients\Gestion_des_patients\obj\Debug\Gestion_des_patients_MarkupCompile.cache
+J:\Gestion_des_patients\Gestion_des_patients\obj\Debug\Gestion_des_patients_MarkupCompile.lref
+J:\Gestion_des_patients\Gestion_des_patients\obj\Debug\App.baml
+J:\Gestion_des_patients\Gestion_des_patients\obj\Debug\Administrateur.baml
+J:\Gestion_des_patients\Gestion_des_patients\obj\Debug\Ajouter_admission.baml
+J:\Gestion_des_patients\Gestion_des_patients\obj\Debug\Ajouter_patient.baml
+J:\Gestion_des_patients\Gestion_des_patients\obj\Debug\Medecin.baml
+J:\Gestion_des_patients\Gestion_des_patients\obj\Debug\Menu.baml
+J:\Gestion_des_patients\Gestion_des_patients\obj\Debug\Prepose.baml
+J:\Gestion_des_patients\Gestion_des_patients\obj\Debug\Gestion_des_patients.g.resources
+J:\Gestion_des_patients\Gestion_des_patients\obj\Debug\Gestion_des_patients.Properties.Resources.resources
+J:\Gestion_des_patients\Gestion_des_patients\obj\Debug\Gestion_des_patients.csproj.GenerateResource.cache
+J:\Gestion_des_patients\Gestion_des_patients\obj\Debug\Gestion_des_patients.csproj.CoreCompileInputs.cache
+J:\Gestion_des_patients\Gestion_des_patients\obj\Debug\Gestion_des_patients.csproj.CopyComplete
+J:\Gestion_des_patients\Gestion_des_patients\obj\Debug\Gestion_des_patients.exe
+J:\Gestion_des_patients\Gestion_des_patients\obj\Debug\Gestion_des_patients.pdb
+J:\Gestion_des_patients\Gestion_des_patients\obj\Debug\Gestion_des_patients.csprojAssemblyReference.cache
